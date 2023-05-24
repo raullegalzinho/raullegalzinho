@@ -1,16 +1,13 @@
-### Hi there 👋
+### boa vindas ao meu perfil
 
-<!--
-**raullegalzinho/raullegalzinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Raul
 
-Here are some ideas to get you started:
+-estou estudando na alura
+-estou me desenvolve na linguagem JavaScript
+-utilizo esse espaço para minha organi ecompartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrarr  em contato comigo 📧
+
+raul.lopes.ferreira@ecola.pr.br
+
+![](https://media.tenor.com/00xaZRGg8-AAAAAM/shaq-lebron-james.gif)
